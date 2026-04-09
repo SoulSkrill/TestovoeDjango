@@ -1,0 +1,5 @@
+﻿order_id,marketplace,product_name,quantity,price,cost_price,status,sold_at
+ORD-001,ozon,USB-C Cable,3,450,120,delivered,2025-03-15
+ORD-002,wildberries,Laptop Stand,1,2200,1300,returned,2025-03-16
+ORD-003,yandex_market,Wireless Mouse,2,900,500,delivered,2025-03-16
+ORD-004,ozon,Keyboard,1,1800,1100,cancelled,2025-03-18
